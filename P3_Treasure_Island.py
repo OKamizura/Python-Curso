@@ -60,10 +60,28 @@ _______________''.--o/___  \_______________(_)___________
             print("You found the treasure. You Win!")
         elif choice3 == "blue":
             print("You enter a room of beasts. Game Over.")
+
+            __________
+           |  __  __  |
+           | |  ||  | |
+           | |  ||  | |
+           | |__||__| |
+           |  __  __()|
+           | |  ||  | |
+           | |  ||  | |
+           | |  ||  | |
+           | |  ||  | |
+           | |__||__| |
+           |__________|
         else:
             print("You chose a door that doesn't exist. Game Over.")
     else:
         print("You got attacked by an angry trout. Game Over.")
+
+                  /"*._         _
+      .-*'`    `*-.._.-'/
+    < * ))     ,       ( 
+      `*-._`._(__.--*"`.\
 
 else:
     print("You fell in to a hole. Game Over.")
