@@ -1,0 +1,21 @@
+word_list = [
+    "abelha", "abismo", "acorde", "adaga", "aeronave", "água", "ajuda", "alegria", "alface", "algodão",
+    "amarelo", "amigo", "aniversário", "antena", "apito", "árvore", "ave", "azeitona", "azul",
+    "bacia", "balão", "bandeira", "barco", "bebida", "beijo", "beleza", "berço", "bicicleta",
+    "bolo", "borboleta", "brilho", "bruxa", "búzio", "cabana", "cadeira", "café", "caminho",
+    "caneta", "canto", "carro", "cavalo", "chave", "chuva", "coelho", "colar", "colorido",
+    "comida", "conta", "coruja", "coração", "costura", "criança", "dança", "dedo", "desenho",
+    "diamante", "dicionário", "dinheiro", "doce", "dormir", "elefante", "embarcação", "enigma",
+    "estrela", "fada", "faca", "falcão", "família", "fantasia", "ferradura", "festa", "flauta",
+    "floresta", "flor", "folha", "fonte", "formiga", "fruta", "gaiola", "galho", "gato",
+    "gelado", "girassol", "gota", "grama", "guarda", "harpa", "herói", "hortelã", "ilha",
+    "imã", "inseto", "íris", "janela", "jardim", "jasmim", "joia", "jogo", "joia", "júri",
+    "lagoa", "lanterna", "leão", "livro", "lua", "macaco", "madeira", "manhã", "mar", "margarida",
+    "música", "neblina", "ninho", "noite", "novelo", "oceano", "oração", "orquídea", "ouro",
+    "pássaro", "papagaio", "parque", "peixe", "pedra", "piano", "pipa", "planta", "poema",
+    "pomba", "porta", "praia", "queijo", "quimera", "rádio", "raio", "rede", "relógio",
+    "rio", "rosa", "sabre", "sacada", "sabor", "saco", "sala", "salto", "sapo", "sol",
+    "sorriso", "táxi", "teia", "tempo", "terra", "tesoura", "trabalho", "trilha", "urso",
+    "vapor", "vassoura", "vento", "vermelho", "vespa", "vidro", "violino", "voo", "vulcão",
+    "xadrez", "xale", "xícara", "yoga", "zebra", "zero", "ziguezague", "zoológico"
+]
